@@ -11,7 +11,3 @@
   </a>
 </p>
 
-## 📉 Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=cilopy16&show_icons=true&count_private=true&theme=dark&hide_border=true" height="175" alt="stats graph"  />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cilopy16&layout=compact&langs_count=5&theme=dark&hide_border=true" height="175" alt="languages graph"  />
